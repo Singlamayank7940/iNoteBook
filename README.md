@@ -11,7 +11,7 @@ iNoteBook is a personal notes app built using the MERN stack (MongoDB, Express.j
 - Clone the repository:
 
 ```bash
-  git clone https://github.com/rohit8008/inotebook.git
+  https://github.com/Singlamayank7940/iNoteBook
 ```
 - Navigate to the project directory:
 ```bash
